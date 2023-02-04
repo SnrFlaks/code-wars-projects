@@ -1,0 +1,15 @@
+D:\Console Projects\conpj\bin\Debug\net7.0\conpj.exe
+D:\Console Projects\conpj\bin\Debug\net7.0\conpj.deps.json
+D:\Console Projects\conpj\bin\Debug\net7.0\conpj.runtimeconfig.json
+D:\Console Projects\conpj\bin\Debug\net7.0\conpj.dll
+D:\Console Projects\conpj\bin\Debug\net7.0\conpj.pdb
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.csproj.AssemblyReference.cache
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.AssemblyInfoInputs.cache
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.AssemblyInfo.cs
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.csproj.CoreCompileInputs.cache
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.dll
+D:\Console Projects\conpj\obj\Debug\net7.0\refint\conpj.dll
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.pdb
+D:\Console Projects\conpj\obj\Debug\net7.0\conpj.genruntimeconfig.cache
+D:\Console Projects\conpj\obj\Debug\net7.0\ref\conpj.dll
